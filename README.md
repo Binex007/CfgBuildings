@@ -1,0 +1,2 @@
+# CfgBuildings
+LootPosiSomeMap
